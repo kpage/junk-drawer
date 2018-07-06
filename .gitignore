@@ -1,0 +1,8 @@
+# Emacs
+*~
+
+# Python
+*.pyc
+
+# Visual Studio Code
+.vscode/
